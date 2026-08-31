@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Мотоэкипировка">
+  <path d="M62 118C62 62 104 24 158 24s96 40 96 96v22c0 10-6 16-18 16h-40l-10-18-102 6c-14 0-22-12-22-28z" fill="#f4661b"/>
+  <path d="M146 62l102 12c4 12 4 30 0 42l-102 6c-16-16-16-44 0-60z" fill="#12141a" opacity=".85"/>
+  <path d="M186 126l62-6-2 20c-1 8-6 12-16 12h-34z" fill="#12141a" opacity=".2"/>
+  <path d="M74 138h40l12 30H92c-18 0-24-16-18-30z" fill="#aab1bd"/>
+</svg>

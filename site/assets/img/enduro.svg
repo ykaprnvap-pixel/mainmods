@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Мотоцикл эндуро">
+  <g fill="none" stroke="#7b8494" stroke-linecap="round">
+    <path stroke-width="9" d="M72 140h76"/>
+    <path stroke-width="10" d="M250 140 226 68"/>
+    <path stroke-width="8" d="M148 122c-24 8-44 8-62 4"/>
+  </g>
+  <path d="M146 96h42l10 26h-62z" fill="#3a4150"/>
+  <g fill="none" stroke="#f4661b" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 72 172 104 78 138"/>
+    <path d="M172 104 148 88"/>
+    <path d="M222 64 250 54"/>
+    <path d="M206 96c22 4 40 14 52 28"/>
+    <path d="M96 84c-16 0-24 6-26 18"/>
+  </g>
+  <path d="M164 92c6-20 26-28 50-22l8 22z" fill="#f4661b"/>
+  <path d="M86 84c0-6 6-9 18-9l62 4v16l-72 4c-6 0-8-4-8-15z" fill="#12141a" opacity=".8"/>
+  <g fill="none" stroke="#7b8494" stroke-width="14" stroke-dasharray="9 7"><circle cx="72" cy="140" r="40"/><circle cx="250" cy="140" r="40"/></g>
+  <g fill="none" stroke="#aab1bd" stroke-width="4"><circle cx="72" cy="140" r="18"/><circle cx="250" cy="140" r="18"/></g>
+  <g fill="#7b8494"><circle cx="72" cy="140" r="5"/><circle cx="250" cy="140" r="5"/></g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Питбайк">
+  <g fill="none" stroke="#7b8494" stroke-linecap="round">
+    <path stroke-width="8" d="M88 148h62"/>
+    <path stroke-width="9" d="M240 148 216 92"/>
+    <path stroke-width="7" d="M148 134c-20 6-38 6-52 2"/>
+  </g>
+  <path d="M148 116h36l8 22h-52z" fill="#3a4150"/>
+  <g fill="none" stroke="#f4661b" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M214 96 170 122 92 146"/>
+    <path d="M170 122 150 108"/>
+    <path d="M212 88 236 80"/>
+    <path d="M198 116c18 4 32 12 42 24"/>
+  </g>
+  <path d="M164 112c6-16 22-22 42-18l6 18z" fill="#f4661b"/>
+  <path d="M104 106c0-5 5-8 15-8l50 3v14l-58 3c-5 0-7-3-7-12z" fill="#12141a" opacity=".8"/>
+  <g fill="none" stroke="#7b8494" stroke-width="12" stroke-dasharray="8 6"><circle cx="88" cy="148" r="28"/><circle cx="240" cy="148" r="28"/></g>
+  <g fill="none" stroke="#aab1bd" stroke-width="4"><circle cx="88" cy="148" r="12"/><circle cx="240" cy="148" r="12"/></g>
+  <g fill="#7b8494"><circle cx="88" cy="148" r="4"/><circle cx="240" cy="148" r="4"/></g>
+</svg>

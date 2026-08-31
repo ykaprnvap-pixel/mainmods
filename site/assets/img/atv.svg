@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Квадроцикл">
+  <path d="M40 124l26-18 44-6 24-24h58l26 26 44 8v26h-32l-14-14H108l-16 16H40z" fill="#f4661b"/>
+  <path d="M130 76h56l10 22h-74z" fill="#12141a" opacity=".8"/>
+  <g fill="none" stroke="#3a4150" stroke-width="9" stroke-linecap="round">
+    <path d="M196 64h44"/><path d="M218 64V44"/>
+  </g>
+  <g fill="none" stroke="#3a4150" stroke-width="7" stroke-linecap="round">
+    <path d="M40 108h34"/><path d="M246 112h32"/>
+  </g>
+  <g fill="none" stroke="#7b8494" stroke-width="16" stroke-dasharray="10 8"><circle cx="72" cy="142" r="36"/><circle cx="250" cy="142" r="36"/></g>
+  <g fill="none" stroke="#aab1bd" stroke-width="5"><circle cx="72" cy="142" r="15"/><circle cx="250" cy="142" r="15"/></g>
+  <g fill="#7b8494"><circle cx="72" cy="142" r="5"/><circle cx="250" cy="142" r="5"/></g>
+</svg>

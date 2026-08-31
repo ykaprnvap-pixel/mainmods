@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Багги">
+  <g fill="none" stroke="#f4661b" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M92 122 116 54h96l30 68"/>
+    <path d="M116 54h96"/>
+    <path d="M152 54v54"/>
+    <path d="M116 88h96"/>
+  </g>
+  <path d="M52 122h216l-14 26h-30l-10-12H108l-10 12H66z" fill="#f4661b"/>
+  <path d="M124 92h24v20h-24z" fill="#12141a" opacity=".7"/>
+  <path d="M162 92h24v20h-24z" fill="#12141a" opacity=".45"/>
+  <g fill="none" stroke="#3a4150" stroke-width="8" stroke-linecap="round">
+    <path d="M88 128 62 140"/><path d="M232 128l26 12"/>
+  </g>
+  <g fill="none" stroke="#7b8494" stroke-width="16" stroke-dasharray="11 8"><circle cx="70" cy="146" r="34"/><circle cx="252" cy="146" r="34"/></g>
+  <g fill="none" stroke="#aab1bd" stroke-width="5"><circle cx="70" cy="146" r="14"/><circle cx="252" cy="146" r="14"/></g>
+  <g fill="#7b8494"><circle cx="70" cy="146" r="5"/><circle cx="252" cy="146" r="5"/></g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Скутер">
+  <path d="M110 148v-30c0-14 10-22 28-22h44l22 24 26 12v16z" fill="#f4661b"/>
+  <path d="M182 96h18l24 26H206z" fill="#f4661b" opacity=".85"/>
+  <path d="M120 96l58-4 4-14-52-2c-8 0-12 6-10 20z" fill="#12141a" opacity=".8"/>
+  <path d="M204 120 216 56h26l10 64z" fill="#f4661b"/>
+  <path d="M214 66h22l4 22h-30z" fill="#12141a" opacity=".25"/>
+  <g fill="none" stroke="#f4661b" stroke-width="10" stroke-linecap="round"><path d="M240 54 208 44"/></g>
+  <path d="M126 138h74v10h-74z" fill="#12141a" opacity=".25"/>
+  <g fill="none" stroke="#7b8494" stroke-width="12"><circle cx="88" cy="148" r="26"/><circle cx="240" cy="148" r="26"/></g>
+  <g fill="none" stroke="#aab1bd" stroke-width="4"><circle cx="88" cy="148" r="11"/><circle cx="240" cy="148" r="11"/></g>
+  <g fill="#7b8494"><circle cx="88" cy="148" r="4"/><circle cx="240" cy="148" r="4"/></g>
+</svg>

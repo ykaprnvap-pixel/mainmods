@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Снегоход">
+  <path d="M62 124h130l28-38h46l-14 38 30 10-12 26H74z" fill="#f4661b"/>
+  <path d="M196 90h40l-12 26h-48z" fill="#12141a" opacity=".7"/>
+  <path d="M228 86l16-30h16l-10 30z" fill="#aab1bd" opacity=".8"/>
+  <g fill="none" stroke="#3a4150" stroke-width="9" stroke-linecap="round">
+    <path d="M226 66h40"/><path d="M246 66V48"/>
+  </g>
+  <path d="M64 132h34l-6 20H70c-10 0-14-10-6-20z" fill="#f4661b" opacity=".85"/>
+  <rect x="70" y="150" width="186" height="26" rx="13" fill="none" stroke="#7b8494" stroke-width="9"/>
+  <g stroke="#7b8494" stroke-width="5" stroke-linecap="round">
+    <path d="M100 150v26"/><path d="M132 150v26"/><path d="M164 150v26"/><path d="M196 150v26"/><path d="M228 150v26"/>
+  </g>
+  <path d="M20 176h58l-6-14H42c-14 0-22 6-22 14z" fill="#aab1bd"/>
+  <path d="M20 176h58v6H20z" fill="#7b8494"/>
+</svg>

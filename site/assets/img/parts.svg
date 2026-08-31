@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Запчасти и расходники">
+  <g transform="translate(106 100)">
+    <circle r="58" fill="#f4661b"/>
+    <g stroke="#f4661b" stroke-width="18" stroke-linecap="round">
+      <path d="M0-70V-58"/><path d="M0 70V58"/><path d="M-70 0h12"/><path d="M70 0h-12"/>
+      <path d="M-49-49 41-41"/><path d="M49 49 41 41"/><path d="M49-49 41-41"/><path d="M-49 49-41 41"/>
+    </g>
+    <circle r="24" fill="#12141a" opacity=".8"/>
+    <circle r="10" fill="#f4661b"/>
+  </g>
+  <path d="M214 60h26v16h10c10 0 18 8 18 18v50c0 10-8 18-18 18h-38c-10 0-18-8-18-18V94c0-10 8-18 18-18h2z" fill="#aab1bd"/>
+  <rect x="200" y="104" width="62" height="30" rx="6" fill="#12141a" opacity=".75"/>
+  <rect x="214" y="48" width="26" height="14" rx="4" fill="#7b8494"/>
+</svg>

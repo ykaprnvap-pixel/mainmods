@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /catalog/product.html?
+
+Sitemap: https://www.moped24.ru/sitemap.xml
